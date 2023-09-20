@@ -1,3 +1,6 @@
-p {
-    font-size: 100px; /* Altere o tamanho desejado */
-}
+body h1  {
+    color: green;
+  }
+  html h1 {
+    color: purple;
+  }
