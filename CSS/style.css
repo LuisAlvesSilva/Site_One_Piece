@@ -1,9 +1,15 @@
   #welcome {
     color: blue;
     font-style: italic;
-    font-size: 100px;
+    font-size: 80px;
+    text-shadow: 0 0 0.2em rgb(0,0,0)
   }
-  
+  #texto {
+    color: rgb(255,255,255);
+    font-style: italic;
+    font-size: 20px;
+    text-shadow: 0 0 0.2em rgb(0, 0, 255)
+  }
   #historia {
     display: flex;
     color: rgb(255,255,255);
